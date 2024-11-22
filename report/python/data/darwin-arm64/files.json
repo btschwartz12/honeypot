@@ -1,0 +1,3312 @@
+{
+  "contentHash": "c88bb07060959a01bfd7021465ebeb88224b6fd4f799c99f55feade0d9d6b32e",
+  "files": [
+    {
+      "name": "bin",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "bin/markdown-it",
+      "size": 244,
+      "perm": 493
+    },
+    {
+      "name": "bin/normalizer",
+      "size": 257,
+      "perm": 493
+    },
+    {
+      "name": "bin/pygmentize",
+      "size": 239,
+      "perm": 493
+    },
+    {
+      "name": "certifi",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "certifi-2024.8.30.dist-info",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "certifi-2024.8.30.dist-info/INSTALLER",
+      "size": 4,
+      "perm": 420
+    },
+    {
+      "name": "certifi-2024.8.30.dist-info/LICENSE",
+      "size": 989,
+      "perm": 420
+    },
+    {
+      "name": "certifi-2024.8.30.dist-info/METADATA",
+      "size": 2222,
+      "perm": 420
+    },
+    {
+      "name": "certifi-2024.8.30.dist-info/RECORD",
+      "size": 1014,
+      "perm": 420
+    },
+    {
+      "name": "certifi-2024.8.30.dist-info/WHEEL",
+      "size": 91,
+      "perm": 420
+    },
+    {
+      "name": "certifi-2024.8.30.dist-info/top_level.txt",
+      "size": 8,
+      "perm": 420
+    },
+    {
+      "name": "certifi/__init__.py",
+      "size": 94,
+      "perm": 420
+    },
+    {
+      "name": "certifi/__main__.py",
+      "size": 243,
+      "perm": 420
+    },
+    {
+      "name": "certifi/cacert.pem",
+      "size": 299427,
+      "perm": 420
+    },
+    {
+      "name": "certifi/core.py",
+      "size": 4426,
+      "perm": 420
+    },
+    {
+      "name": "certifi/py.typed",
+      "size": 0,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "charset_normalizer-3.4.0.dist-info",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "charset_normalizer-3.4.0.dist-info/INSTALLER",
+      "size": 4,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer-3.4.0.dist-info/LICENSE",
+      "size": 1070,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer-3.4.0.dist-info/METADATA",
+      "size": 34159,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer-3.4.0.dist-info/RECORD",
+      "size": 2757,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer-3.4.0.dist-info/WHEEL",
+      "size": 109,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer-3.4.0.dist-info/entry_points.txt",
+      "size": 65,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer-3.4.0.dist-info/top_level.txt",
+      "size": 19,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer/__init__.py",
+      "size": 1577,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer/__main__.py",
+      "size": 73,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer/api.py",
+      "size": 22559,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer/cd.py",
+      "size": 12560,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer/cli",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "charset_normalizer/cli/__init__.py",
+      "size": 100,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer/cli/__main__.py",
+      "size": 10411,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer/constant.py",
+      "size": 40499,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer/legacy.py",
+      "size": 2327,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer/md.cpython-312-darwin.so",
+      "size": 50136,
+      "perm": 493,
+      "compressed": true
+    },
+    {
+      "name": "charset_normalizer/md.py",
+      "size": 20138,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer/md__mypyc.cpython-312-darwin.so",
+      "size": 236384,
+      "perm": 493,
+      "compressed": true
+    },
+    {
+      "name": "charset_normalizer/models.py",
+      "size": 12425,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer/py.typed",
+      "size": 0,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer/utils.py",
+      "size": 11894,
+      "perm": 420
+    },
+    {
+      "name": "charset_normalizer/version.py",
+      "size": 79,
+      "perm": 420
+    },
+    {
+      "name": "idna",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "idna-3.10.dist-info",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "idna-3.10.dist-info/INSTALLER",
+      "size": 4,
+      "perm": 420
+    },
+    {
+      "name": "idna-3.10.dist-info/LICENSE.md",
+      "size": 1541,
+      "perm": 420
+    },
+    {
+      "name": "idna-3.10.dist-info/METADATA",
+      "size": 10158,
+      "perm": 420
+    },
+    {
+      "name": "idna-3.10.dist-info/RECORD",
+      "size": 1384,
+      "perm": 420
+    },
+    {
+      "name": "idna-3.10.dist-info/WHEEL",
+      "size": 81,
+      "perm": 420
+    },
+    {
+      "name": "idna/__init__.py",
+      "size": 868,
+      "perm": 420
+    },
+    {
+      "name": "idna/codec.py",
+      "size": 3422,
+      "perm": 420
+    },
+    {
+      "name": "idna/compat.py",
+      "size": 316,
+      "perm": 420
+    },
+    {
+      "name": "idna/core.py",
+      "size": 13239,
+      "perm": 420
+    },
+    {
+      "name": "idna/idnadata.py",
+      "size": 78306,
+      "perm": 420
+    },
+    {
+      "name": "idna/intranges.py",
+      "size": 1898,
+      "perm": 420
+    },
+    {
+      "name": "idna/package_data.py",
+      "size": 21,
+      "perm": 420
+    },
+    {
+      "name": "idna/py.typed",
+      "size": 0,
+      "perm": 420
+    },
+    {
+      "name": "idna/uts46data.py",
+      "size": 239289,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "markdown_it/__init__.py",
+      "size": 113,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/_compat.py",
+      "size": 246,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/_punycode.py",
+      "size": 2364,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/cli",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "markdown_it/cli/__init__.py",
+      "size": 0,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/cli/parse.py",
+      "size": 2901,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/common",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "markdown_it/common/__init__.py",
+      "size": 0,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/common/entities.py",
+      "size": 156,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/common/html_blocks.py",
+      "size": 932,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/common/html_re.py",
+      "size": 929,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/common/normalize_url.py",
+      "size": 2568,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/common/utils.py",
+      "size": 10728,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/helpers",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "markdown_it/helpers/__init__.py",
+      "size": 253,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/helpers/parse_link_destination.py",
+      "size": 1977,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/helpers/parse_link_label.py",
+      "size": 1036,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/helpers/parse_link_title.py",
+      "size": 1425,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/main.py",
+      "size": 12772,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/parser_block.py",
+      "size": 3911,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/parser_core.py",
+      "size": 1010,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/parser_inline.py",
+      "size": 4997,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/port.yaml",
+      "size": 2446,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/presets",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "markdown_it/presets/__init__.py",
+      "size": 970,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/presets/commonmark.py",
+      "size": 2868,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/presets/default.py",
+      "size": 1810,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/presets/zero.py",
+      "size": 2112,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/py.typed",
+      "size": 26,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/renderer.py",
+      "size": 9970,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/ruler.py",
+      "size": 9199,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_block",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "markdown_it/rules_block/__init__.py",
+      "size": 553,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_block/blockquote.py",
+      "size": 8887,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_block/code.py",
+      "size": 859,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_block/fence.py",
+      "size": 2537,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_block/heading.py",
+      "size": 1746,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_block/hr.py",
+      "size": 1226,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_block/html_block.py",
+      "size": 2721,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_block/lheading.py",
+      "size": 2625,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_block/list.py",
+      "size": 9668,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_block/paragraph.py",
+      "size": 1818,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_block/reference.py",
+      "size": 6168,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_block/state_block.py",
+      "size": 8422,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_block/table.py",
+      "size": 6987,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_core",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "markdown_it/rules_core/__init__.py",
+      "size": 394,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_core/block.py",
+      "size": 372,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_core/inline.py",
+      "size": 325,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_core/linkify.py",
+      "size": 5141,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_core/normalize.py",
+      "size": 402,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_core/replacements.py",
+      "size": 3470,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_core/smartquotes.py",
+      "size": 7443,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_core/state_core.py",
+      "size": 570,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_core/text_join.py",
+      "size": 1172,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_inline",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "markdown_it/rules_inline/__init__.py",
+      "size": 696,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_inline/autolink.py",
+      "size": 2079,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_inline/backticks.py",
+      "size": 2037,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_inline/balance_pairs.py",
+      "size": 4851,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_inline/emphasis.py",
+      "size": 3123,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_inline/entity.py",
+      "size": 1651,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_inline/escape.py",
+      "size": 1658,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_inline/fragments_join.py",
+      "size": 1493,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_inline/html_inline.py",
+      "size": 1130,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_inline/image.py",
+      "size": 4135,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_inline/link.py",
+      "size": 4318,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_inline/linkify.py",
+      "size": 1704,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_inline/newline.py",
+      "size": 1296,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_inline/state_inline.py",
+      "size": 5101,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_inline/strikethrough.py",
+      "size": 3214,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/rules_inline/text.py",
+      "size": 901,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/token.py",
+      "size": 6439,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/tree.py",
+      "size": 11421,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it/utils.py",
+      "size": 5365,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it_py-3.0.0.dist-info",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "markdown_it_py-3.0.0.dist-info/INSTALLER",
+      "size": 4,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it_py-3.0.0.dist-info/LICENSE",
+      "size": 1078,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it_py-3.0.0.dist-info/LICENSE.markdown-it",
+      "size": 1073,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it_py-3.0.0.dist-info/METADATA",
+      "size": 6940,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it_py-3.0.0.dist-info/RECORD",
+      "size": 10824,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it_py-3.0.0.dist-info/WHEEL",
+      "size": 81,
+      "perm": 420
+    },
+    {
+      "name": "markdown_it_py-3.0.0.dist-info/entry_points.txt",
+      "size": 58,
+      "perm": 420
+    },
+    {
+      "name": "mdurl",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "mdurl-0.1.2.dist-info",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "mdurl-0.1.2.dist-info/INSTALLER",
+      "size": 4,
+      "perm": 420
+    },
+    {
+      "name": "mdurl-0.1.2.dist-info/LICENSE",
+      "size": 2338,
+      "perm": 420
+    },
+    {
+      "name": "mdurl-0.1.2.dist-info/METADATA",
+      "size": 1638,
+      "perm": 420
+    },
+    {
+      "name": "mdurl-0.1.2.dist-info/RECORD",
+      "size": 1152,
+      "perm": 420
+    },
+    {
+      "name": "mdurl-0.1.2.dist-info/WHEEL",
+      "size": 81,
+      "perm": 420
+    },
+    {
+      "name": "mdurl/__init__.py",
+      "size": 547,
+      "perm": 420
+    },
+    {
+      "name": "mdurl/_decode.py",
+      "size": 3004,
+      "perm": 420
+    },
+    {
+      "name": "mdurl/_encode.py",
+      "size": 2602,
+      "perm": 420
+    },
+    {
+      "name": "mdurl/_format.py",
+      "size": 626,
+      "perm": 420
+    },
+    {
+      "name": "mdurl/_parse.py",
+      "size": 11374,
+      "perm": 420
+    },
+    {
+      "name": "mdurl/_url.py",
+      "size": 284,
+      "perm": 420
+    },
+    {
+      "name": "mdurl/py.typed",
+      "size": 26,
+      "perm": 420
+    },
+    {
+      "name": "pygments",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "pygments-2.18.0.dist-info",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "pygments-2.18.0.dist-info/INSTALLER",
+      "size": 4,
+      "perm": 420
+    },
+    {
+      "name": "pygments-2.18.0.dist-info/METADATA",
+      "size": 2461,
+      "perm": 420
+    },
+    {
+      "name": "pygments-2.18.0.dist-info/RECORD",
+      "size": 45888,
+      "perm": 420
+    },
+    {
+      "name": "pygments-2.18.0.dist-info/WHEEL",
+      "size": 87,
+      "perm": 420
+    },
+    {
+      "name": "pygments-2.18.0.dist-info/entry_points.txt",
+      "size": 53,
+      "perm": 420
+    },
+    {
+      "name": "pygments-2.18.0.dist-info/licenses",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "pygments-2.18.0.dist-info/licenses/AUTHORS",
+      "size": 10500,
+      "perm": 420
+    },
+    {
+      "name": "pygments-2.18.0.dist-info/licenses/LICENSE",
+      "size": 1331,
+      "perm": 420
+    },
+    {
+      "name": "pygments/__init__.py",
+      "size": 2959,
+      "perm": 420
+    },
+    {
+      "name": "pygments/__main__.py",
+      "size": 348,
+      "perm": 420
+    },
+    {
+      "name": "pygments/cmdline.py",
+      "size": 23536,
+      "perm": 420
+    },
+    {
+      "name": "pygments/console.py",
+      "size": 1718,
+      "perm": 420
+    },
+    {
+      "name": "pygments/filter.py",
+      "size": 1910,
+      "perm": 420
+    },
+    {
+      "name": "pygments/filters",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "pygments/filters/__init__.py",
+      "size": 40344,
+      "perm": 420
+    },
+    {
+      "name": "pygments/formatter.py",
+      "size": 4366,
+      "perm": 420
+    },
+    {
+      "name": "pygments/formatters",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "pygments/formatters/__init__.py",
+      "size": 5349,
+      "perm": 420
+    },
+    {
+      "name": "pygments/formatters/_mapping.py",
+      "size": 4176,
+      "perm": 493
+    },
+    {
+      "name": "pygments/formatters/bbcode.py",
+      "size": 3296,
+      "perm": 420
+    },
+    {
+      "name": "pygments/formatters/groff.py",
+      "size": 5082,
+      "perm": 420
+    },
+    {
+      "name": "pygments/formatters/html.py",
+      "size": 35633,
+      "perm": 420
+    },
+    {
+      "name": "pygments/formatters/img.py",
+      "size": 23263,
+      "perm": 420
+    },
+    {
+      "name": "pygments/formatters/irc.py",
+      "size": 4945,
+      "perm": 420
+    },
+    {
+      "name": "pygments/formatters/latex.py",
+      "size": 19258,
+      "perm": 420
+    },
+    {
+      "name": "pygments/formatters/other.py",
+      "size": 4986,
+      "perm": 420
+    },
+    {
+      "name": "pygments/formatters/pangomarkup.py",
+      "size": 2206,
+      "perm": 420
+    },
+    {
+      "name": "pygments/formatters/rtf.py",
+      "size": 11921,
+      "perm": 420
+    },
+    {
+      "name": "pygments/formatters/svg.py",
+      "size": 7138,
+      "perm": 420
+    },
+    {
+      "name": "pygments/formatters/terminal.py",
+      "size": 4626,
+      "perm": 420
+    },
+    {
+      "name": "pygments/formatters/terminal256.py",
+      "size": 11717,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexer.py",
+      "size": 35109,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "pygments/lexers/__init__.py",
+      "size": 12067,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_ada_builtins.py",
+      "size": 1543,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_asy_builtins.py",
+      "size": 27287,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_cl_builtins.py",
+      "size": 13994,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_cocoa_builtins.py",
+      "size": 105173,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_csound_builtins.py",
+      "size": 18414,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_css_builtins.py",
+      "size": 12446,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_julia_builtins.py",
+      "size": 11883,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_lasso_builtins.py",
+      "size": 134510,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_lilypond_builtins.py",
+      "size": 108094,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_lua_builtins.py",
+      "size": 8108,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_luau_builtins.py",
+      "size": 955,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_mapping.py",
+      "size": 69089,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_mql_builtins.py",
+      "size": 24713,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_mysql_builtins.py",
+      "size": 25838,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_openedge_builtins.py",
+      "size": 49398,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_php_builtins.py",
+      "size": 107922,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_postgres_builtins.py",
+      "size": 13343,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_qlik_builtins.py",
+      "size": 12595,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_scheme_builtins.py",
+      "size": 32564,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_scilab_builtins.py",
+      "size": 52411,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_sourcemod_builtins.py",
+      "size": 26777,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_stan_builtins.py",
+      "size": 13445,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_stata_builtins.py",
+      "size": 27227,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_tsql_builtins.py",
+      "size": 15460,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_usd_builtins.py",
+      "size": 1658,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_vbscript_builtins.py",
+      "size": 4225,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/_vim_builtins.py",
+      "size": 57066,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/actionscript.py",
+      "size": 11727,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/ada.py",
+      "size": 5353,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/agile.py",
+      "size": 896,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/algebra.py",
+      "size": 9912,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/ambient.py",
+      "size": 2605,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/amdgpu.py",
+      "size": 1723,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/ampl.py",
+      "size": 4176,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/apdlexer.py",
+      "size": 30800,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/apl.py",
+      "size": 3404,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/archetype.py",
+      "size": 11538,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/arrow.py",
+      "size": 3564,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/arturo.py",
+      "size": 11414,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/asc.py",
+      "size": 1693,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/asm.py",
+      "size": 41934,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/asn1.py",
+      "size": 4262,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/automation.py",
+      "size": 19831,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/bare.py",
+      "size": 3020,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/basic.py",
+      "size": 27989,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/bdd.py",
+      "size": 1641,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/berry.py",
+      "size": 3209,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/bibtex.py",
+      "size": 4811,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/blueprint.py",
+      "size": 6188,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/boa.py",
+      "size": 3921,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/bqn.py",
+      "size": 3337,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/business.py",
+      "size": 28345,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/c_cpp.py",
+      "size": 18059,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/c_like.py",
+      "size": 32021,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/capnproto.py",
+      "size": 2174,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/carbon.py",
+      "size": 3211,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/cddl.py",
+      "size": 5076,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/chapel.py",
+      "size": 5156,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/clean.py",
+      "size": 6418,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/comal.py",
+      "size": 3179,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/compiled.py",
+      "size": 1426,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/configs.py",
+      "size": 50534,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/console.py",
+      "size": 4180,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/cplint.py",
+      "size": 1389,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/crystal.py",
+      "size": 15754,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/csound.py",
+      "size": 16998,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/css.py",
+      "size": 25366,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/d.py",
+      "size": 9920,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/dalvik.py",
+      "size": 4606,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/data.py",
+      "size": 27026,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/dax.py",
+      "size": 8098,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/devicetree.py",
+      "size": 4019,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/diff.py",
+      "size": 5382,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/dns.py",
+      "size": 3891,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/dotnet.py",
+      "size": 37958,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/dsls.py",
+      "size": 36746,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/dylan.py",
+      "size": 10391,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/ecl.py",
+      "size": 6371,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/eiffel.py",
+      "size": 2690,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/elm.py",
+      "size": 3152,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/elpi.py",
+      "size": 6535,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/email.py",
+      "size": 4804,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/erlang.py",
+      "size": 19147,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/esoteric.py",
+      "size": 10500,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/ezhil.py",
+      "size": 3272,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/factor.py",
+      "size": 19530,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/fantom.py",
+      "size": 10231,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/felix.py",
+      "size": 9655,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/fift.py",
+      "size": 1644,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/floscript.py",
+      "size": 2667,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/forth.py",
+      "size": 7193,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/fortran.py",
+      "size": 10382,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/foxpro.py",
+      "size": 26295,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/freefem.py",
+      "size": 26913,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/func.py",
+      "size": 3700,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/functional.py",
+      "size": 693,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/futhark.py",
+      "size": 3743,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/gcodelexer.py",
+      "size": 874,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/gdscript.py",
+      "size": 7566,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/go.py",
+      "size": 3783,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/grammar_notation.py",
+      "size": 8043,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/graph.py",
+      "size": 4108,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/graphics.py",
+      "size": 39145,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/graphql.py",
+      "size": 5601,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/graphviz.py",
+      "size": 1934,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/gsql.py",
+      "size": 3990,
+      "perm": 493
+    },
+    {
+      "name": "pygments/lexers/haskell.py",
+      "size": 33239,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/haxe.py",
+      "size": 30974,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/hdl.py",
+      "size": 22738,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/hexdump.py",
+      "size": 3653,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/html.py",
+      "size": 20574,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/idl.py",
+      "size": 15449,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/igor.py",
+      "size": 31626,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/inferno.py",
+      "size": 3135,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/installers.py",
+      "size": 13297,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/int_fiction.py",
+      "size": 56544,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/iolang.py",
+      "size": 1905,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/j.py",
+      "size": 4853,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/javascript.py",
+      "size": 63101,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/jmespath.py",
+      "size": 2082,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/jslt.py",
+      "size": 3700,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/jsonnet.py",
+      "size": 5636,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/jsx.py",
+      "size": 2233,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/julia.py",
+      "size": 11679,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/jvm.py",
+      "size": 72666,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/kuin.py",
+      "size": 11405,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/kusto.py",
+      "size": 3477,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/ldap.py",
+      "size": 6551,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/lean.py",
+      "size": 8570,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/lilypond.py",
+      "size": 9752,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/lisp.py",
+      "size": 157668,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/macaulay2.py",
+      "size": 32844,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/make.py",
+      "size": 7831,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/markup.py",
+      "size": 65088,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/math.py",
+      "size": 695,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/matlab.py",
+      "size": 132962,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/maxima.py",
+      "size": 2715,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/meson.py",
+      "size": 4336,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/mime.py",
+      "size": 7582,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/minecraft.py",
+      "size": 13696,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/mips.py",
+      "size": 4656,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/ml.py",
+      "size": 35390,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/modeling.py",
+      "size": 13683,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/modula2.py",
+      "size": 53072,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/mojo.py",
+      "size": 24181,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/monte.py",
+      "size": 6289,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/mosel.py",
+      "size": 9297,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/ncl.py",
+      "size": 63999,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/nimrod.py",
+      "size": 6413,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/nit.py",
+      "size": 2725,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/nix.py",
+      "size": 4421,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/oberon.py",
+      "size": 4210,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/objective.py",
+      "size": 23240,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/ooc.py",
+      "size": 2981,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/openscad.py",
+      "size": 3700,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/other.py",
+      "size": 1763,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/parasail.py",
+      "size": 2719,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/parsers.py",
+      "size": 26596,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/pascal.py",
+      "size": 30989,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/pawn.py",
+      "size": 8253,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/perl.py",
+      "size": 39192,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/phix.py",
+      "size": 23249,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/php.py",
+      "size": 13061,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/pointless.py",
+      "size": 1974,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/pony.py",
+      "size": 3279,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/praat.py",
+      "size": 12676,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/procfile.py",
+      "size": 1155,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/prolog.py",
+      "size": 12866,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/promql.py",
+      "size": 4738,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/prql.py",
+      "size": 8747,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/ptx.py",
+      "size": 4501,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/python.py",
+      "size": 53639,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/q.py",
+      "size": 6936,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/qlik.py",
+      "size": 3693,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/qvt.py",
+      "size": 6103,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/r.py",
+      "size": 6342,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/rdf.py",
+      "size": 16042,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/rebol.py",
+      "size": 18259,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/resource.py",
+      "size": 2927,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/ride.py",
+      "size": 5035,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/rita.py",
+      "size": 1127,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/rnc.py",
+      "size": 1972,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/roboconf.py",
+      "size": 2074,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/robotframework.py",
+      "size": 18448,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/ruby.py",
+      "size": 22753,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/rust.py",
+      "size": 8260,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/sas.py",
+      "size": 9456,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/savi.py",
+      "size": 4878,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/scdoc.py",
+      "size": 2524,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/scripting.py",
+      "size": 81062,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/sgf.py",
+      "size": 1985,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/shell.py",
+      "size": 36234,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/sieve.py",
+      "size": 2514,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/slash.py",
+      "size": 8484,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/smalltalk.py",
+      "size": 7204,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/smithy.py",
+      "size": 2659,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/smv.py",
+      "size": 2805,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/snobol.py",
+      "size": 2778,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/solidity.py",
+      "size": 3163,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/soong.py",
+      "size": 2339,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/sophia.py",
+      "size": 3376,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/special.py",
+      "size": 3554,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/spice.py",
+      "size": 2790,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/sql.py",
+      "size": 42594,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/srcinfo.py",
+      "size": 1746,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/stata.py",
+      "size": 6415,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/supercollider.py",
+      "size": 3697,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/tact.py",
+      "size": 10809,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/tal.py",
+      "size": 2904,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/tcl.py",
+      "size": 5512,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/teal.py",
+      "size": 3522,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/templates.py",
+      "size": 75719,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/teraterm.py",
+      "size": 9718,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/testing.py",
+      "size": 10810,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/text.py",
+      "size": 1048,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/textedit.py",
+      "size": 7760,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/textfmts.py",
+      "size": 15524,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/theorem.py",
+      "size": 17855,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/thingsdb.py",
+      "size": 6017,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/tlb.py",
+      "size": 1450,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/tls.py",
+      "size": 1540,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/tnt.py",
+      "size": 10456,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/trafficscript.py",
+      "size": 1506,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/typoscript.py",
+      "size": 8332,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/typst.py",
+      "size": 4337,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/ul4.py",
+      "size": 10499,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/unicon.py",
+      "size": 18625,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/urbi.py",
+      "size": 6082,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/usd.py",
+      "size": 3304,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/varnish.py",
+      "size": 7473,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/verification.py",
+      "size": 3934,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/verifpal.py",
+      "size": 2661,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/vip.py",
+      "size": 5711,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/vyper.py",
+      "size": 5590,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/web.py",
+      "size": 913,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/webassembly.py",
+      "size": 5698,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/webidl.py",
+      "size": 10516,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/webmisc.py",
+      "size": 40564,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/wgsl.py",
+      "size": 11880,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/whiley.py",
+      "size": 4017,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/wowtoc.py",
+      "size": 4076,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/wren.py",
+      "size": 3229,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/x10.py",
+      "size": 1943,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/xorg.py",
+      "size": 925,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/yang.py",
+      "size": 4499,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/yara.py",
+      "size": 2427,
+      "perm": 420
+    },
+    {
+      "name": "pygments/lexers/zig.py",
+      "size": 3976,
+      "perm": 420
+    },
+    {
+      "name": "pygments/modeline.py",
+      "size": 1005,
+      "perm": 420
+    },
+    {
+      "name": "pygments/plugin.py",
+      "size": 1891,
+      "perm": 420
+    },
+    {
+      "name": "pygments/regexopt.py",
+      "size": 3072,
+      "perm": 420
+    },
+    {
+      "name": "pygments/scanner.py",
+      "size": 3092,
+      "perm": 420
+    },
+    {
+      "name": "pygments/sphinxext.py",
+      "size": 7898,
+      "perm": 420
+    },
+    {
+      "name": "pygments/style.py",
+      "size": 6408,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "pygments/styles/__init__.py",
+      "size": 2006,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/_mapping.py",
+      "size": 3312,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/abap.py",
+      "size": 749,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/algol.py",
+      "size": 2262,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/algol_nu.py",
+      "size": 2283,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/arduino.py",
+      "size": 4557,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/autumn.py",
+      "size": 2195,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/borland.py",
+      "size": 1611,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/bw.py",
+      "size": 1406,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/coffee.py",
+      "size": 2308,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/colorful.py",
+      "size": 2832,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/default.py",
+      "size": 2588,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/dracula.py",
+      "size": 2182,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/emacs.py",
+      "size": 2535,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/friendly.py",
+      "size": 2604,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/friendly_grayscale.py",
+      "size": 2828,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/fruity.py",
+      "size": 1324,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/gh_dark.py",
+      "size": 3590,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/gruvbox.py",
+      "size": 3387,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/igor.py",
+      "size": 737,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/inkpot.py",
+      "size": 2404,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/lightbulb.py",
+      "size": 3172,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/lilypond.py",
+      "size": 2066,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/lovelace.py",
+      "size": 3178,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/manni.py",
+      "size": 2443,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/material.py",
+      "size": 4201,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/monokai.py",
+      "size": 5184,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/murphy.py",
+      "size": 2805,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/native.py",
+      "size": 2043,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/nord.py",
+      "size": 5391,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/onedark.py",
+      "size": 1719,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/paraiso_dark.py",
+      "size": 5662,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/paraiso_light.py",
+      "size": 5668,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/pastie.py",
+      "size": 2525,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/perldoc.py",
+      "size": 2230,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/rainbow_dash.py",
+      "size": 2390,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/rrt.py",
+      "size": 964,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/sas.py",
+      "size": 1440,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/solarized.py",
+      "size": 4247,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/staroffice.py",
+      "size": 831,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/stata_dark.py",
+      "size": 1257,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/stata_light.py",
+      "size": 1289,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/tango.py",
+      "size": 7137,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/trac.py",
+      "size": 1981,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/vim.py",
+      "size": 2019,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/vs.py",
+      "size": 1130,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/xcode.py",
+      "size": 1504,
+      "perm": 420
+    },
+    {
+      "name": "pygments/styles/zenburn.py",
+      "size": 2203,
+      "perm": 420
+    },
+    {
+      "name": "pygments/token.py",
+      "size": 6226,
+      "perm": 420
+    },
+    {
+      "name": "pygments/unistring.py",
+      "size": 63208,
+      "perm": 420
+    },
+    {
+      "name": "pygments/util.py",
+      "size": 10031,
+      "perm": 420
+    },
+    {
+      "name": "requests",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "requests-2.32.3.dist-info",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "requests-2.32.3.dist-info/INSTALLER",
+      "size": 4,
+      "perm": 420
+    },
+    {
+      "name": "requests-2.32.3.dist-info/LICENSE",
+      "size": 10142,
+      "perm": 420
+    },
+    {
+      "name": "requests-2.32.3.dist-info/METADATA",
+      "size": 4610,
+      "perm": 420
+    },
+    {
+      "name": "requests-2.32.3.dist-info/RECORD",
+      "size": 2851,
+      "perm": 420
+    },
+    {
+      "name": "requests-2.32.3.dist-info/REQUESTED",
+      "size": 0,
+      "perm": 420
+    },
+    {
+      "name": "requests-2.32.3.dist-info/WHEEL",
+      "size": 92,
+      "perm": 420
+    },
+    {
+      "name": "requests-2.32.3.dist-info/top_level.txt",
+      "size": 9,
+      "perm": 420
+    },
+    {
+      "name": "requests/__init__.py",
+      "size": 5072,
+      "perm": 420
+    },
+    {
+      "name": "requests/__version__.py",
+      "size": 435,
+      "perm": 420
+    },
+    {
+      "name": "requests/_internal_utils.py",
+      "size": 1495,
+      "perm": 420
+    },
+    {
+      "name": "requests/adapters.py",
+      "size": 27451,
+      "perm": 420
+    },
+    {
+      "name": "requests/api.py",
+      "size": 6449,
+      "perm": 420
+    },
+    {
+      "name": "requests/auth.py",
+      "size": 10186,
+      "perm": 420
+    },
+    {
+      "name": "requests/certs.py",
+      "size": 429,
+      "perm": 420
+    },
+    {
+      "name": "requests/compat.py",
+      "size": 1817,
+      "perm": 420
+    },
+    {
+      "name": "requests/cookies.py",
+      "size": 18590,
+      "perm": 420
+    },
+    {
+      "name": "requests/exceptions.py",
+      "size": 4260,
+      "perm": 420
+    },
+    {
+      "name": "requests/help.py",
+      "size": 3875,
+      "perm": 420
+    },
+    {
+      "name": "requests/hooks.py",
+      "size": 733,
+      "perm": 420
+    },
+    {
+      "name": "requests/models.py",
+      "size": 35418,
+      "perm": 420
+    },
+    {
+      "name": "requests/packages.py",
+      "size": 904,
+      "perm": 420
+    },
+    {
+      "name": "requests/sessions.py",
+      "size": 30495,
+      "perm": 420
+    },
+    {
+      "name": "requests/status_codes.py",
+      "size": 4322,
+      "perm": 420
+    },
+    {
+      "name": "requests/structures.py",
+      "size": 2912,
+      "perm": 420
+    },
+    {
+      "name": "requests/utils.py",
+      "size": 33619,
+      "perm": 420
+    },
+    {
+      "name": "rich",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "rich-13.9.4.dist-info",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "rich-13.9.4.dist-info/INSTALLER",
+      "size": 4,
+      "perm": 420
+    },
+    {
+      "name": "rich-13.9.4.dist-info/LICENSE",
+      "size": 1056,
+      "perm": 420
+    },
+    {
+      "name": "rich-13.9.4.dist-info/METADATA",
+      "size": 18274,
+      "perm": 420
+    },
+    {
+      "name": "rich-13.9.4.dist-info/RECORD",
+      "size": 9738,
+      "perm": 420
+    },
+    {
+      "name": "rich-13.9.4.dist-info/REQUESTED",
+      "size": 0,
+      "perm": 420
+    },
+    {
+      "name": "rich-13.9.4.dist-info/WHEEL",
+      "size": 88,
+      "perm": 420
+    },
+    {
+      "name": "rich/__init__.py",
+      "size": 6066,
+      "perm": 420
+    },
+    {
+      "name": "rich/__main__.py",
+      "size": 8333,
+      "perm": 420
+    },
+    {
+      "name": "rich/_cell_widths.py",
+      "size": 10209,
+      "perm": 420
+    },
+    {
+      "name": "rich/_emoji_codes.py",
+      "size": 140235,
+      "perm": 420
+    },
+    {
+      "name": "rich/_emoji_replace.py",
+      "size": 1064,
+      "perm": 420
+    },
+    {
+      "name": "rich/_export_format.py",
+      "size": 2128,
+      "perm": 420
+    },
+    {
+      "name": "rich/_extension.py",
+      "size": 241,
+      "perm": 420
+    },
+    {
+      "name": "rich/_fileno.py",
+      "size": 799,
+      "perm": 420
+    },
+    {
+      "name": "rich/_inspect.py",
+      "size": 9655,
+      "perm": 420
+    },
+    {
+      "name": "rich/_log_render.py",
+      "size": 3213,
+      "perm": 420
+    },
+    {
+      "name": "rich/_loop.py",
+      "size": 1236,
+      "perm": 420
+    },
+    {
+      "name": "rich/_null_file.py",
+      "size": 1394,
+      "perm": 420
+    },
+    {
+      "name": "rich/_palettes.py",
+      "size": 7063,
+      "perm": 420
+    },
+    {
+      "name": "rich/_pick.py",
+      "size": 423,
+      "perm": 420
+    },
+    {
+      "name": "rich/_ratio.py",
+      "size": 5459,
+      "perm": 420
+    },
+    {
+      "name": "rich/_spinners.py",
+      "size": 19919,
+      "perm": 420
+    },
+    {
+      "name": "rich/_stack.py",
+      "size": 351,
+      "perm": 420
+    },
+    {
+      "name": "rich/_timer.py",
+      "size": 417,
+      "perm": 420
+    },
+    {
+      "name": "rich/_win32_console.py",
+      "size": 22719,
+      "perm": 420
+    },
+    {
+      "name": "rich/_windows.py",
+      "size": 1901,
+      "perm": 420
+    },
+    {
+      "name": "rich/_windows_renderer.py",
+      "size": 2759,
+      "perm": 420
+    },
+    {
+      "name": "rich/_wrap.py",
+      "size": 3404,
+      "perm": 420
+    },
+    {
+      "name": "rich/abc.py",
+      "size": 878,
+      "perm": 420
+    },
+    {
+      "name": "rich/align.py",
+      "size": 10421,
+      "perm": 420
+    },
+    {
+      "name": "rich/ansi.py",
+      "size": 6921,
+      "perm": 420
+    },
+    {
+      "name": "rich/bar.py",
+      "size": 3263,
+      "perm": 420
+    },
+    {
+      "name": "rich/box.py",
+      "size": 10783,
+      "perm": 420
+    },
+    {
+      "name": "rich/cells.py",
+      "size": 5130,
+      "perm": 420
+    },
+    {
+      "name": "rich/color.py",
+      "size": 18211,
+      "perm": 420
+    },
+    {
+      "name": "rich/color_triplet.py",
+      "size": 1054,
+      "perm": 420
+    },
+    {
+      "name": "rich/columns.py",
+      "size": 7131,
+      "perm": 420
+    },
+    {
+      "name": "rich/console.py",
+      "size": 100084,
+      "perm": 420
+    },
+    {
+      "name": "rich/constrain.py",
+      "size": 1288,
+      "perm": 420
+    },
+    {
+      "name": "rich/containers.py",
+      "size": 5502,
+      "perm": 420
+    },
+    {
+      "name": "rich/control.py",
+      "size": 6606,
+      "perm": 420
+    },
+    {
+      "name": "rich/default_styles.py",
+      "size": 8123,
+      "perm": 420
+    },
+    {
+      "name": "rich/diagnose.py",
+      "size": 924,
+      "perm": 420
+    },
+    {
+      "name": "rich/emoji.py",
+      "size": 2465,
+      "perm": 420
+    },
+    {
+      "name": "rich/errors.py",
+      "size": 642,
+      "perm": 420
+    },
+    {
+      "name": "rich/file_proxy.py",
+      "size": 1683,
+      "perm": 420
+    },
+    {
+      "name": "rich/filesize.py",
+      "size": 2484,
+      "perm": 420
+    },
+    {
+      "name": "rich/highlighter.py",
+      "size": 9586,
+      "perm": 420
+    },
+    {
+      "name": "rich/json.py",
+      "size": 5019,
+      "perm": 420
+    },
+    {
+      "name": "rich/jupyter.py",
+      "size": 3228,
+      "perm": 420
+    },
+    {
+      "name": "rich/layout.py",
+      "size": 13944,
+      "perm": 420
+    },
+    {
+      "name": "rich/live.py",
+      "size": 14270,
+      "perm": 420
+    },
+    {
+      "name": "rich/live_render.py",
+      "size": 3654,
+      "perm": 420
+    },
+    {
+      "name": "rich/logging.py",
+      "size": 12446,
+      "perm": 420
+    },
+    {
+      "name": "rich/markdown.py",
+      "size": 25969,
+      "perm": 420
+    },
+    {
+      "name": "rich/markup.py",
+      "size": 8427,
+      "perm": 420
+    },
+    {
+      "name": "rich/measure.py",
+      "size": 5305,
+      "perm": 420
+    },
+    {
+      "name": "rich/padding.py",
+      "size": 4896,
+      "perm": 420
+    },
+    {
+      "name": "rich/pager.py",
+      "size": 828,
+      "perm": 420
+    },
+    {
+      "name": "rich/palette.py",
+      "size": 3288,
+      "perm": 420
+    },
+    {
+      "name": "rich/panel.py",
+      "size": 11235,
+      "perm": 420
+    },
+    {
+      "name": "rich/pretty.py",
+      "size": 36355,
+      "perm": 420
+    },
+    {
+      "name": "rich/progress.py",
+      "size": 60333,
+      "perm": 420
+    },
+    {
+      "name": "rich/progress_bar.py",
+      "size": 8162,
+      "perm": 420
+    },
+    {
+      "name": "rich/prompt.py",
+      "size": 12435,
+      "perm": 420
+    },
+    {
+      "name": "rich/protocol.py",
+      "size": 1367,
+      "perm": 420
+    },
+    {
+      "name": "rich/py.typed",
+      "size": 0,
+      "perm": 420
+    },
+    {
+      "name": "rich/region.py",
+      "size": 166,
+      "perm": 420
+    },
+    {
+      "name": "rich/repr.py",
+      "size": 4419,
+      "perm": 420
+    },
+    {
+      "name": "rich/rule.py",
+      "size": 4590,
+      "perm": 420
+    },
+    {
+      "name": "rich/scope.py",
+      "size": 2831,
+      "perm": 420
+    },
+    {
+      "name": "rich/screen.py",
+      "size": 1579,
+      "perm": 420
+    },
+    {
+      "name": "rich/segment.py",
+      "size": 24707,
+      "perm": 420
+    },
+    {
+      "name": "rich/spinner.py",
+      "size": 4364,
+      "perm": 420
+    },
+    {
+      "name": "rich/status.py",
+      "size": 4424,
+      "perm": 420
+    },
+    {
+      "name": "rich/style.py",
+      "size": 27067,
+      "perm": 420
+    },
+    {
+      "name": "rich/styled.py",
+      "size": 1234,
+      "perm": 420
+    },
+    {
+      "name": "rich/syntax.py",
+      "size": 35655,
+      "perm": 420
+    },
+    {
+      "name": "rich/table.py",
+      "size": 40067,
+      "perm": 420
+    },
+    {
+      "name": "rich/terminal_theme.py",
+      "size": 3370,
+      "perm": 420
+    },
+    {
+      "name": "rich/text.py",
+      "size": 47540,
+      "perm": 420
+    },
+    {
+      "name": "rich/theme.py",
+      "size": 3771,
+      "perm": 420
+    },
+    {
+      "name": "rich/themes.py",
+      "size": 102,
+      "perm": 420
+    },
+    {
+      "name": "rich/traceback.py",
+      "size": 31725,
+      "perm": 420
+    },
+    {
+      "name": "rich/tree.py",
+      "size": 9391,
+      "perm": 420
+    },
+    {
+      "name": "urllib3",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "urllib3-2.2.3.dist-info",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "urllib3-2.2.3.dist-info/INSTALLER",
+      "size": 4,
+      "perm": 420
+    },
+    {
+      "name": "urllib3-2.2.3.dist-info/METADATA",
+      "size": 6485,
+      "perm": 420
+    },
+    {
+      "name": "urllib3-2.2.3.dist-info/RECORD",
+      "size": 5528,
+      "perm": 420
+    },
+    {
+      "name": "urllib3-2.2.3.dist-info/WHEEL",
+      "size": 87,
+      "perm": 420
+    },
+    {
+      "name": "urllib3-2.2.3.dist-info/licenses",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "urllib3-2.2.3.dist-info/licenses/LICENSE.txt",
+      "size": 1093,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/__init__.py",
+      "size": 6979,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/_base_connection.py",
+      "size": 5652,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/_collections.py",
+      "size": 17370,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/_request_methods.py",
+      "size": 9938,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/_version.py",
+      "size": 411,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/connection.py",
+      "size": 39508,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/connectionpool.py",
+      "size": 43393,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/contrib",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "urllib3/contrib/__init__.py",
+      "size": 0,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/contrib/emscripten",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "urllib3/contrib/emscripten/__init__.py",
+      "size": 733,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/contrib/emscripten/connection.py",
+      "size": 8755,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/contrib/emscripten/emscripten_fetch_worker.js",
+      "size": 3655,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/contrib/emscripten/fetch.py",
+      "size": 14131,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/contrib/emscripten/request.py",
+      "size": 566,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/contrib/emscripten/response.py",
+      "size": 10017,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/contrib/pyopenssl.py",
+      "size": 19338,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/contrib/socks.py",
+      "size": 7549,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/exceptions.py",
+      "size": 9393,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/fields.py",
+      "size": 10843,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/filepost.py",
+      "size": 2395,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/http2",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "urllib3/http2/__init__.py",
+      "size": 1741,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/http2/connection.py",
+      "size": 12668,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/http2/probe.py",
+      "size": 3014,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/poolmanager.py",
+      "size": 22913,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/py.typed",
+      "size": 93,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/response.py",
+      "size": 44801,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/util",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "urllib3/util/__init__.py",
+      "size": 1001,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/util/connection.py",
+      "size": 4458,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/util/proxy.py",
+      "size": 1148,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/util/request.py",
+      "size": 8064,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/util/response.py",
+      "size": 3374,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/util/retry.py",
+      "size": 18459,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/util/ssl_.py",
+      "size": 19238,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/util/ssl_match_hostname.py",
+      "size": 5812,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/util/ssltransport.py",
+      "size": 8887,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/util/timeout.py",
+      "size": 10346,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/util/url.py",
+      "size": 15213,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/util/util.py",
+      "size": 1146,
+      "perm": 420
+    },
+    {
+      "name": "urllib3/util/wait.py",
+      "size": 4423,
+      "perm": 420
+    }
+  ]
+}

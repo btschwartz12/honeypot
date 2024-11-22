@@ -1,0 +1,75 @@
+FROM debian:bullseye
+
+# Where Cowrie files will live in the honeypot.
+# Technically a user can see these which is bad,
+# but it needs to be there to run createfs.
+ARG COWRIE_DIR=/etc/cowrie
+
+# Where the files that are going to be copied into
+# the container live.
+ARG HONEYFS_DIR=honeyfs
+
+USER root
+
+# #############################
+# # Set up Cowrie Environment 
+# #############################
+
+COPY ./cowrie ${COWRIE_DIR}
+WORKDIR ${COWRIE_DIR}
+
+RUN apt-get update && apt-get install -y \
+    python3 \
+    python3-venv \
+    python3-pip \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN ln -s /usr/bin/python3 /usr/bin/python
+
+RUN rm -rf cowrie-env
+RUN python -m venv cowrie-env
+
+RUN . cowrie-env/bin/activate && \
+    python -m pip install --upgrade pip && \
+    python -m pip install --upgrade -r requirements.txt
+
+WORKDIR /
+
+# #############################
+# # Install additional packages
+# #############################
+
+# # Keep in mind that the honeypot will not be able to run
+# # any of these packages, but the binaries and libraries
+# # will be available to analyze.
+
+# # For instance, you can install vim, but it simply won't run:
+# RUN apt-get update && apt-get install -y \
+#     vim \
+#     sqlite3 \
+#     && rm -rf /var/lib/apt/lists/*
+
+# #############################
+# # Copy over honeyfs
+# #############################
+COPY ${HONEYFS_DIR} /
+COPY txtcmds/bin /bin
+COPY txtcmds/usr/bin /usr/bin
+
+# At this moment, this is the state of the filesystem:
+#
+# 1. Ubuntu 22.04 base image
+# 2. Cowrie installed in ${COWRIE_DIR} (just to be able to run createfs)
+# 3. Everything in ${HONEYFS_DIR} copied into the container, 
+#    which either overwrites or adds to the image
+
+# If you want to add more files to the container,
+# you can either add them to ${HONEYFS_DIR} or add
+# them here like so:
+# COPY ./some-file /path/in/container/some-file
+# RUN echo "file contents" > /path/in/container/some-file
+
+
+#############################
+
+CMD ["tail", "-f", "/dev/null"]

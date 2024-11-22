@@ -1,0 +1,38 @@
+version: 2
+sql:
+  - engine: "sqlite"
+    schema: "sql/cowrie/schema.sql"
+    queries:
+      - "sql/cowrie/base_queries.sql"
+    gen:
+      go:
+        package: "db"
+        out: "cowrie"
+        overrides:
+          - db_type: "char(32)"
+            go_type: "string"
+          - db_type: "CHAR(32)"
+            go_type: "string"
+          - db_type: "CHAR( 32 )"
+            go_type: "string"
+          - db_type: "tinyint(1)"
+            go_type: "int64"
+          - db_type: "tinyint(1)"
+            go_type: "bool"
+          - db_type: "int(4)"
+            go_type: "int64"
+          - db_type: "datetime"
+            go_type: "time.Time"
+          - db_type: "int(5)"
+            go_type: "int64"
+          - db_type: "int(11)"
+            go_type: "int64"
+
+  - engine: "sqlite"
+    schema: "sql/schema.sql"
+    queries:
+      - "sql/base_queries.sql"
+    gen:
+      go:
+        package: "db"
+        out: "."

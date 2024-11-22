@@ -1,0 +1,6 @@
+honeypot/** linguist-vendored=false
+honeypot/** linguist-detectable=false
+honeypot/** linguist-documentation=false
+report/python/data/** linguist-vendored=false
+report/python/data/** linguist-detectable=false
+report/python/data/** linguist-documentation=false

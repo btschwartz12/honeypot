@@ -1,0 +1,118 @@
+basePath: /
+info:
+  contact: {}
+  description: Nothing to see here
+  title: An API
+  version: "1.0"
+paths:
+  /api/auths:
+    get:
+      description: Get the auths
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+      security:
+      - Bearer: []
+      summary: Get all auths
+      tags:
+      - auths
+  /api/backup:
+    post:
+      description: Backup the cowrie database
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+      security:
+      - Bearer: []
+      summary: Backup the cowrie database
+      tags:
+      - backup
+  /api/report:
+    post:
+      description: Generate a report
+      responses:
+        "200":
+          description: OK
+      security:
+      - Bearer: []
+      summary: Generate a report
+      tags:
+      - report
+  /api/restore/{filename}:
+    post:
+      description: Restore the cowrie database
+      parameters:
+      - description: Backup filename
+        in: path
+        name: filename
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+      security:
+      - Bearer: []
+      summary: Restore the cowrie database
+      tags:
+      - restore
+  /api/sessions:
+    get:
+      description: Get the sessions
+      parameters:
+      - default: 10
+        description: Limit the number of sessions returned
+        in: query
+        name: limit
+        type: integer
+      - default: 0
+        description: Offset for pagination
+        in: query
+        name: offset
+        type: integer
+      - default: false
+        description: Include failed logins
+        in: query
+        name: include_failed_logins
+        type: boolean
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+      security:
+      - Bearer: []
+      summary: Get all sessions
+      tags:
+      - sessions
+  /api/sessions/{id}:
+    get:
+      description: Get a session
+      parameters:
+      - description: Session ID
+        in: path
+        name: id
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+      security:
+      - Bearer: []
+      summary: Get a session
+      tags:
+      - sessions
+securityDefinitions:
+  Bearer:
+    description: Please provide a valid api token
+    in: header
+    name: Authorization
+    type: apiKey
+swagger: "2.0"
